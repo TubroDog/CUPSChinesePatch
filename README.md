@@ -9,3 +9,5 @@
 如果你有其他版本，请复制打包/usr/share/cups/doc-root和templates里面的文件、发送到
 
 ![mail](https://tubrodog.github.io/CUPSChinesePatch/Pic/mail.jpg)
+
+不常开邮箱，别催，随缘。
